@@ -1,60 +1,60 @@
-# AI Tarot Card Reading — Intelligent Tarot Interpretation
+# AI Tarot Card Reading — Intelligent Interpretation Powered by AI
 
-Experience the future of tarot with **AI tarot card reading** by Tarotool. Our advanced AI engine analyzes card combinations, positions, and context to deliver deeply personalized tarot interpretations that rival professional readers.
+Discover the power of **AI tarot card reading** with Tarotool. Our advanced AI analyzes your tarot cards with deep contextual understanding, delivering personalized interpretations for love, career, decisions, and personal growth.
 
-🔮 **[Try AI Tarot Card Reading →](https://tarotool.com)**
+🔮 **[Try AI Tarot Reading Now →](https://tarotool.com/en/chatgpt-tarot-free)**
 
-## How AI Makes Tarot Reading Better
+🇪🇸 **Versión en español:** [Tarot con IA gratis](https://tarotool.com/tarot-ia-gratis)
 
-Traditional tarot reading relies on a single reader's perspective. Our AI tarot reader combines knowledge from thousands of tarot traditions, symbolism databases, and interpretation frameworks to give you the most comprehensive reading possible.
+## What Makes AI Tarot Reading Different?
 
-### Key Features
+Traditional tarot apps show you generic card meanings. **AI tarot reading** connects your specific question with the actual cards drawn — surfacing patterns, timing, and next steps tailored to your situation.
 
-| Feature | Description |
-|---------|-------------|
-| **Deep Card Analysis** | Each card is interpreted with full context — position, surrounding cards, and your question |
-| **Multiple Traditions** | Combines Rider-Waite, Thoth, Marseille, and modern interpretive frameworks |
-| **Reversed Card Meanings** | Nuanced reversed card interpretations, not just "opposite meaning" |
-| **Spread Relationships** | Understands how cards interact and influence each other within a spread |
-| **Personalized Insights** | Readings tailored to your specific question and life context |
+### Key Advantages
 
-## Supported Tarot Spreads
+- **Question-aware interpretation** — AI binds card meanings to your real question, not abstract themes
+- **Pattern recognition** — Identifies hidden dynamics across multiple cards
+- **Timing signals** — Suggests when changes are likely to occur
+- **Action-oriented** — Tells you what to do, not just what's happening
+- **Available 24/7** — No appointments, no waiting
 
-### Three Card Spread (Past, Present, Future)
-The classic three card tarot spread gives you a quick overview of your situation — where you've been, where you are, and where you're heading.
+## How AI Reads Tarot Cards
 
-### Celtic Cross Spread
-The most comprehensive tarot spread, using 10 cards to explore every aspect of your question — from the heart of the matter to your hopes, fears, and final outcome.
+1. **Card position context** — Each card's meaning shifts based on its position (past/present/future, situation/challenge/outcome)
+2. **Card combination patterns** — AI detects how cards interact: amplification, conflict, transformation
+3. **Question alignment** — Interpretation explicitly references the question you asked
+4. **Reversal detection** — Reversed cards get distinct interpretations, not just inverted meanings
 
-### Relationship Spread
-A specialized spread designed to explore the dynamics between two people — perfect for love readings, friendships, or business partnerships.
+## Types of AI Tarot Readings Available
 
-**[Explore All Spreads →](https://tarotool.com)**
+| Reading Type | Best For | Link |
+|--------------|----------|------|
+| 💕 Love & Relationships | Dating, partnerships, exes | [tarot-love-reading](https://tarotool.com/tarot-amor-gratis) |
+| 💼 Career & Work | Job decisions, business | [tarot-trabajo](https://tarotool.com/tarot-trabajo-gratis) |
+| 💰 Money & Finance | Investments, money flow | [tarot-dinero](https://tarotool.com/tarot-dinero-gratis) |
+| 🌅 Daily Reading | Today's energy & focus | [tarot-diario](https://tarotool.com/tarot-diario) |
+| ✅ Yes or No | Quick binary decisions | [tarot-si-o-no](https://tarotool.com/tarot-si-o-no) |
 
-## Understanding Tarot Card Meanings
+## Frequently Asked Questions
 
-### Major Arcana (22 Cards)
-The Major Arcana represents significant life events and spiritual lessons:
-- **The Fool** — New beginnings, spontaneity, faith in the universe
-- **The Magician** — Manifestation, resourcefulness, inspired action
-- **The High Priestess** — Intuition, sacred knowledge, the subconscious
-- **The Empress** — Abundance, nurturing, fertility
-- **The Tower** — Sudden change, upheaval, revelation
-- *...and 17 more powerful archetypes*
+**Is AI tarot accurate?**
+AI tarot is as meaningful as the question you bring. The AI doesn't predict the future — it helps you see patterns and reflect more clearly. Most users find it genuinely useful for decision-making.
 
-### Minor Arcana (56 Cards)
-Four suits reflecting daily life experiences:
-- **Cups** — Emotions, relationships, feelings
-- **Pentacles** — Material world, career, finances
-- **Swords** — Thoughts, communication, conflict
-- **Wands** — Creativity, energy, ambition
+**Do I need to register?**
+No. Your first reading is completely free with no signup required.
 
-## Get Started
-
-No registration required. Choose your spread, focus your intention, and let our AI deliver a reading that resonates.
-
-👉 **[Start Your AI Tarot Reading at Tarotool.com](https://tarotool.com)**
+**What's the difference between free and paid?**
+Free readings give you a clear answer to your question. The optional $5.90 deep reading adds hidden patterns, timing signals, and specific next-step actions for your situation.
 
 ---
 
-*Powered by Tarotool — The AI Tarot Reading Platform | [tarotool.com](https://tarotool.com)*
+## Related Resources in This Org
+
+- 🃏 [free-tarot-reading-online](https://github.com/tarotool-ai/free-tarot-reading-online)
+- 💕 [tarot-love-reading](https://github.com/tarotool-ai/tarot-love-reading)
+- 📖 [daily-tarot-card-meaning](https://github.com/tarotool-ai/daily-tarot-card-meaning)
+- 🔮 [tarot-spread-guide](https://github.com/tarotool-ai/tarot-spread-guide)
+
+## Try Tarotool
+
+🇺🇸 [Free AI Tarot (English)](https://tarotool.com/en/chatgpt-tarot-free) · 🇪🇸 [Tarot Gratis con IA](https://tarotool.com/tarot-ia-gratis)
